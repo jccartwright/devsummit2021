@@ -1,0 +1,5 @@
+.SidePanel {
+    background-color: yellow;
+
+    grid-area: sidebar;
+}

@@ -1,0 +1,4 @@
+.HeaderPanel {
+    background-color: green;
+    grid-area: header;
+}

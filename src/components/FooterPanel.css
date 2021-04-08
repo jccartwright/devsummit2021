@@ -1,0 +1,4 @@
+.FooterPanel {
+    background-color: blue;
+    grid-area: footer;
+}
